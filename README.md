@@ -1,2 +1,1 @@
-# Data-Visualization
-Few Data Visualization Projects
+# Covid19 Analysis
